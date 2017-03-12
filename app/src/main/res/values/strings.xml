@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Volleyball Score Counter</string>
+    <string name="out_of_bounds">Out of Bounds</string>
+    <string name="miss">Miss</string>
+    <string name="team">Team </string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="wins">Wins!</string>
+</resources>
